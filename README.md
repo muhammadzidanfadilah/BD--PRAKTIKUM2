@@ -104,3 +104,5 @@ Kemudian, Ketika kita ingin mencari data dalam rentang nilai tertentu, lebih bai
 BETWEEN, sedangkan jika Anda ingin menentukan batas atas dan batas bawah dalam kriteria
 pencarian, lebih baik menggunakan operator >= dan <=. Pilihan antara keduanya tergantung pada 
 kebutuhan yang spesifik dalam query yang sedang dibuat
+
+# Untuk dokumen di view code
